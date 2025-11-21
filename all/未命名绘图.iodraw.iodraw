@@ -49,6 +49,16 @@
         <mxCell id="Li754OgcGyyblj_SCPdE-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Li754OgcGyyblj_SCPdE-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="100" as="sourcePoint" />
+            <mxPoint x="520" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="100" />
+              <mxPoint x="470" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
