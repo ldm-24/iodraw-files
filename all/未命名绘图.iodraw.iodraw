@@ -59,8 +59,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Li754OgcGyyblj_SCPdE-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="10" width="110" height="110" as="geometry" />
+        <mxCell id="Li754OgcGyyblj_SCPdE-2" value="调用构造函数，此时还没有添加任务。创建任务队列。创建一定数量的线程去执行任务，这个时候任务列表没有任务，所以会堵塞在拿出任务这一步" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="10" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
